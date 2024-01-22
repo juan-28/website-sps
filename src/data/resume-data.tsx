@@ -24,8 +24,7 @@ export const RESUME_DATA = {
   initials: "S.P.S",
   location: "Boston, Massachusetts, USA",
   locationLink: "https://www.google.com/maps/place/Boston",
-  about:
-    "I am a recent Boston University graduate with a Master's degree in Applied Data Analytics!",
+  about: "Data Analyst | MS Applied Data Analytics @Boston University",
   summary:
     "Welcome to my portfolio! As a new master's graduate, my focus is on launching my career in data analytics. My educational background covers areas like machine learning, statistics, big data, web and data mining. I've developed practical skills in Apache Spark and Python for data processing and analysis, TensorFlow for creating deep learning models, and PostgreSQL for database design. My experience includes exposure to cloud platforms like AWS and Google Cloud, important for managing scalable projects. Python, with its broad capabilities and community, is my preferred programming language. I'm enthusiastic about applying these skills in an entry-level data analyst position and growing as a professional.",
   avatarUrl:
@@ -62,14 +61,27 @@ export const RESUME_DATA = {
       ],
     },
     {
+      school: "Asian Institute of Technology, Thailand",
+      degree:
+        "Master's Degree in Business Analytics and Digital Transformation",
+      start: "2020",
+      end: "2021",
+      coursework: [
+        "Health Economics,",
+        "Bioinformatics,",
+        "Medical Science Literature Review",
+      ],
+    },
+    {
       school: "University of Exeter, UK",
       degree: "Bachelor's Degree in Medical Sciences",
       start: "2016",
       end: "2020",
       coursework: [
-        "Health Economics,",
-        "Bioinformatics,",
-        "Medical Science Literature Review",
+        "Digital Marketing and Consumer Behaviour,",
+        "Managerial Economics,",
+        "Storytelling Using Data,",
+        "Agile Thinking for Digital Transformation",
       ],
     },
   ],
