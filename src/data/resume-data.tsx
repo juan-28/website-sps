@@ -168,7 +168,7 @@ export const RESUME_DATA = {
       logo: BarepapersLogo,
       link: {
         label: "barepapers.com",
-        href: "https://barepapers.com/",
+        href: "",
       },
     },
   ],
