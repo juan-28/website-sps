@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "I am a recent Boston University graduate with a Master's degree in Applied Data Analytics!",
   summary:
-    "Welcome to my website where you'll learn a bit about me! For starters, I'm a data analyst with an interest in statistics, machine learning and big data. My technical skills extends to technologies like Apache Spark and Kafka for big data processing, TensorFlow for building and deploying machine learning models, and PostgreSQL for database design and management. I also have some experience in cloud computing platforms, including AWS and Google Cloud, which are integral to managing scalable solutions. My favourite programming language is Python because of it's extensive capabilities and continued support within the community.",
+    "Welcome to my portfolio! As a new master's graduate, my focus is on launching my career in data analytics. My educational background covers areas like machine learning, statistics, big data, web and data mining. I've developed practical skills in Apache Spark and Python for data processing and analysis, TensorFlow for creating deep learning models, and PostgreSQL for database design. My experience includes exposure to cloud platforms like AWS and Google Cloud, important for managing scalable projects. Python, with its broad capabilities and community, is my preferred programming language. I'm enthusiastic about applying these skills in an entry-level data analyst position and growing as a professional.",
   avatarUrl:
     "https://avatars.githubusercontent.com/u/55826125?s=400&u=27fb8e0d756303c3df7a2ac300a9e1c5915bed6e&v=4",
   personalWebsiteUrl: "https://jarocki.me",
@@ -82,7 +82,7 @@ export const RESUME_DATA = {
       start: "May 2022",
       end: "August 2022",
       description:
-        "Utilized MongoDB, SQL, Tableau, and Python (Plotly) to generate heatmaps and time-series visualizations of Bangkok taxi activity from GPS data, enhancing client advertising campaigns with strategic insights into visibility zones and peak times.",
+        "Utilized MongoDB, SQL, Tableau, and Python (Plotly) to create scripts to automate heatmap generation and time-series visualization of Bangkok taxi activity from live GPS data, enhancing client advertising campaigns with strategic insights into visibility zones and peak times.",
     },
     {
       company: "KidsKreations Co. Ltd",
@@ -162,7 +162,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Mental Health Insights",
-      techStack: ["Side Project", "Next.js", "Puppeteer"],
+      techStack: ["Classification", "Python", "Scikit Learn"],
       description:
         "Machine learning classification analysis highlighting intersections between trauma disorder and demographics",
       link: {
