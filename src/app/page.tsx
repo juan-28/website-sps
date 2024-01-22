@@ -153,7 +153,18 @@ export default function Page() {
                     </div>
                   </div>
                 </CardHeader>
-                <CardContent className="mt-2">{education.degree}</CardContent>
+                <CardContent className="mt-2">
+                  <p>{education.degree}</p>
+                  <div>
+                    <p>--------------------</p>
+                    <h4 className="font-semibold">Relevant Coursework:</h4>
+                    <ul className="flex flex-wrap gap-2">
+                      {education.coursework.map((course, index) => (
+                        <li key={index}>{course}</li>
+                      ))}
+                    </ul>
+                  </div>
+                </CardContent>
               </Card>
             );
           })}

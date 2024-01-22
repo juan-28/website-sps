@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "I am a recent Boston University graduate with a Master's degree in Applied Data Analytics!",
   summary:
-    "My technical skills extends to robust technologies like Apache Spark and Kafka for big data processing, TensorFlow for building and deploying machine learning models, and PostgreSQL for database design and management. I am also proficient in cloud computing platforms, including AWS and Google Cloud, which are integral to managing scalable solutions. My favourite programming language is Python because of it's extensive capabilities and continued support within the community.",
+    "Welcome to my website where you'll learn a bit about me! For starters, I'm a data analyst with an interest in statistics, machine learning and big data. My technical skills extends to technologies like Apache Spark and Kafka for big data processing, TensorFlow for building and deploying machine learning models, and PostgreSQL for database design and management. I also have some experience in cloud computing platforms, including AWS and Google Cloud, which are integral to managing scalable solutions. My favourite programming language is Python because of it's extensive capabilities and continued support within the community.",
   avatarUrl:
     "https://avatars.githubusercontent.com/u/55826125?s=400&u=27fb8e0d756303c3df7a2ac300a9e1c5915bed6e&v=4",
   personalWebsiteUrl: "https://jarocki.me",
@@ -45,25 +45,32 @@ export const RESUME_DATA = {
         url: "https://www.linkedin.com/in/surya-pranav-s-a9064a140/",
         icon: LinkedInIcon,
       },
-      {
-        name: "X",
-        url: "https://x.com/BartoszJarocki",
-        icon: XIcon,
-      },
     ],
   },
   education: [
     {
-      school: "Boston Univerisy",
+      school: "Boston Univerisy, USA",
       degree: "Master's Degree in Applied Data Analytics",
       start: "2022",
       end: "2024",
+      coursework: [
+        "Data Science with Python,",
+        "Advanced Machine Learning,",
+        "Big Data Analytics,",
+        "Data Mining,",
+        "Analysis of Algorithms",
+      ],
     },
     {
-      school: "University of Exeter",
+      school: "University of Exeter, UK",
       degree: "Bachelor's Degree in Medical Sciences",
       start: "2016",
       end: "2020",
+      coursework: [
+        "Health Economics,",
+        "Bioinformatics,",
+        "Medical Science Literature Review",
+      ],
     },
   ],
   work: [
@@ -92,6 +99,8 @@ export const RESUME_DATA = {
     "Python",
     "SQL",
     "R",
+    "HTML",
+    "CSS",
     "TensorFlow",
     "Keras",
     "AWS EMR",
@@ -128,7 +137,6 @@ export const RESUME_DATA = {
       ],
       description:
         "Music recommendation system using collaborative and content based filtering",
-      logo: MonitoLogo,
       link: {
         label: "music rec",
         href: "https://github.com/juan-28/MusicRecSystem",
@@ -136,13 +144,20 @@ export const RESUME_DATA = {
     },
     {
       title: "Big Data Visualization",
-      techStack: ["Side Project", "Next.js", "MDX"],
+      techStack: [
+        "Apache Spark",
+        "Apache Zeppelin",
+        "EMR",
+        "Plotly",
+        "Folium",
+        "SQL",
+        "Python",
+      ],
       description:
-        "My personal website and blog. Built with Next.js and Notion API",
-      logo: JarockiMeLogo,
+        "Visualization of extensive NYC taxi dataset using Spark, Zeppelin, Plotly and Folium",
       link: {
-        label: "github.com",
-        href: "https://jarocki.me/",
+        label: "nyc_bigdata",
+        href: "https://github.com/juan-28/nyc_bigdata_viz",
       },
     },
     {
@@ -153,7 +168,7 @@ export const RESUME_DATA = {
       logo: BarepapersLogo,
       link: {
         label: "barepapers.com",
-        href: "https://barepapers.com/",
+        href: "",
       },
     },
   ],
