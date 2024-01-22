@@ -89,18 +89,18 @@ export const RESUME_DATA = {
     {
       company: "Brands on Road",
       link: "https://brandsonroad.com/",
-      badges: ["On-Site, Bangkok, Thailand"],
+      badges: ["On-Site | Bangkok, Thailand"],
       title: "Data Analyst Intern",
-      start: "May 2022",
-      end: "August 2022",
+      start: "2022",
+      end: "2022",
       description:
         "Utilized MongoDB, SQL, Tableau, and Python (Plotly) to create scripts to automate heatmap generation and time-series visualization of Bangkok taxi activity from live GPS data, enhancing client advertising campaigns with strategic insights into visibility zones and peak times.",
     },
     {
       company: "KidsKreations Co. Ltd",
       link: "https://kidskreationsco.com/",
-      badges: ["On-Site, Bangkok, Thailand"],
-      title: "Data Analyst - Marketing",
+      badges: ["On-Site | Part-Time | Bangkok, Thailand"],
+      title: "Marketing and Data Analyst Intern",
       start: "2020",
       end: "2021",
       description:
