@@ -67,9 +67,10 @@ export const RESUME_DATA = {
       start: "2020",
       end: "2021",
       coursework: [
-        "Health Economics,",
-        "Bioinformatics,",
-        "Medical Science Literature Review",
+        "Digital Marketing and Consumer Behaviour,",
+        "Managerial Economics,",
+        "Storytelling Using Data,",
+        "Agile Thinking for Digital Transformation",
       ],
     },
     {
@@ -78,10 +79,9 @@ export const RESUME_DATA = {
       start: "2016",
       end: "2020",
       coursework: [
-        "Digital Marketing and Consumer Behaviour,",
-        "Managerial Economics,",
-        "Storytelling Using Data,",
-        "Agile Thinking for Digital Transformation",
+        "Health Economics,",
+        "Bioinformatics,",
+        "Medical Science Literature Review",
       ],
     },
   ],
