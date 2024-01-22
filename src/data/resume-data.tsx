@@ -164,8 +164,7 @@ export const RESUME_DATA = {
       title: "Mental Health Insights",
       techStack: ["Side Project", "Next.js", "Puppeteer"],
       description:
-        "Generates beautiful wallpapers using random shapes and gradients",
-      logo: BarepapersLogo,
+        "Machine learning classification analysis highlighting intersections between trauma disorder and demographics",
       link: {
         label: "barepapers.com",
         href: "",
