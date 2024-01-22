@@ -30,7 +30,7 @@ export const RESUME_DATA = {
     "Welcome to my portfolio! As a new master's graduate, my focus is on launching my career in data analytics. My educational background covers areas like machine learning, statistics, big data, web and data mining. I've developed practical skills in Apache Spark and Python for data processing and analysis, TensorFlow for creating deep learning models, and PostgreSQL for database design. My experience includes exposure to cloud platforms like AWS and Google Cloud, important for managing scalable projects. Python, with its broad capabilities and community, is my preferred programming language. I'm enthusiastic about applying these skills in an entry-level data analyst position and growing as a professional.",
   avatarUrl:
     "https://avatars.githubusercontent.com/u/55826125?s=400&u=27fb8e0d756303c3df7a2ac300a9e1c5915bed6e&v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://website-sps-a11488dc76e4.herokuapp.com/",
   contact: {
     email: "ps2pranav@gmail.com",
     tel: "+1 5035601009",
