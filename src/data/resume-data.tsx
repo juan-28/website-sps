@@ -111,11 +111,11 @@ export const RESUME_DATA = {
         "Matplotlib",
       ],
       description:
-        "ResNet50 deep learning implementation for a 71% test accuracy",
+        "ResNet50 deep learning implementation for a 71% test accuracy on fer-2013 dataset",
       logo: ConsultlyLogo,
       link: {
-        label: "consultly.com",
-        href: "https://consultly.com/",
+        label: "emotion",
+        href: "https://github.com/juan-28/Emotion-Recognition-Keras",
       },
     },
     {
@@ -127,11 +127,11 @@ export const RESUME_DATA = {
         "Content-Based Filtering",
       ],
       description:
-        "Browser extension that records everything happening in a web application",
+        "Music recommendation system using collaborative and content based filtering",
       logo: MonitoLogo,
       link: {
-        label: "monito.dev",
-        href: "https://monito.dev/",
+        label: "music rec",
+        href: "https://github.com/juan-28/MusicRecSystem",
       },
     },
     {
@@ -143,17 +143,6 @@ export const RESUME_DATA = {
       link: {
         label: "github.com",
         href: "https://jarocki.me/",
-      },
-    },
-    {
-      title: "Market Analysis",
-      techStack: ["Side Project", "Next.js", "Puppeteer"],
-      description:
-        "Minimalist calendars, habit trackers and planners generator",
-      logo: Minimal,
-      link: {
-        label: "useminimal.com",
-        href: "https://useminimal.com/",
       },
     },
     {
